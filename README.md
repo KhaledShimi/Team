@@ -4,6 +4,6 @@
 
 *Getting Started:* This repository contains the README.md file that contains the details regarding the team component
 
-*Authors:* **Khaled ELShimi 37-6529 Passant Omar 37-3450 Rawan Shehab 37-15834 Nourhan Samy 37-12655 Mina Ramis 
+*Authors:* **Khaled ELShimi 37-6529 Passant Omar 37-3450 Rawan Shehab 37-15834 Nourhan Samy 37-12655 Mina Ramis 31-3575** 
 
 *About:* This repository contains a file that gives information about each team member as well as basic excercises for Github
