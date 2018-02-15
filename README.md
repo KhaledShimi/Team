@@ -1,6 +1,6 @@
 # Sp0-Team-Component
 
-# Project Title: Sprint0
+*Project Title:* Sprint0
 
 *Getting Started:* This repository contains the README.md file that contains the details regarding the team component
 
