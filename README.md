@@ -1,9 +1,16 @@
-# Sp0-Team-Component
+# Vue seed project
 
-*Project Title:* Sprint0
+## Documentation
+Link to [Documentation](https://cristijora.github.io/vue-paper-dashboard-docs/#/)
 
-*Getting Started:* This repository contains the README.md file that contains the details regarding the team component
+## Build Setup
 
-*Authors:* **Khaled ELShimi 37-6529 Passant Omar 37-3450 Rawan Shehab 37-15834 Nourhan Samy 37-12655 Mina Ramis 31-3575** 
+### install dependencies
+`npm install`
+### serve with hot reload at localhost:8080
+`npm run dev`
 
-*About:* This repository contains a file that gives information about each team member as well as basic excercises for Github
+* Please don't use jQuery or jQuery based plugins since there are many pure Vue alternatives
+* Write unit tests for your custom components. See fgInput.spec and paper-table.spec
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
